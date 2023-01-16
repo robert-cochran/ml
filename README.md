@@ -1,16 +1,5 @@
 # Machine Learning
 
-- [Projects](./projects) - Varied uses of ML from simple local applications to cloud based experiments 
-    - [Simple Face Recognition](./project1-facerec) - Dockerized Simple Facerecognition Algorithm
-    - [Azure](./project2-azure) - Using Azure Python SDK 
-    - [Algorithms](./project3-algorithms) - Selfwritten Algorithms
-    - [Applications](./project4-applications) - Using ML in a larger application
-    - [Google Cloud](./project5-gcloud) - Using Google Cloud services to train ML models
-    - [Exploratory HousePrices](./project6-houseprice) - Simple Datascience Exploration
-    - [TinyGrad](https://github.com/geohot/tinygrad/tree/master)
-    
-
----
 # Resources
 
 ## Summaries:
@@ -23,6 +12,7 @@
   - https://www.dropbox.com/s/qiq2c85cle9ydb6/Chapter3.pdf?dl=0
 - ML Mastery: https://machinelearningmastery.com/start-here/
 - Dive into ML: https://github.com/hangtwenty/dive-into-machine-learning
+- [TinyGrad](https://github.com/geohot/tinygrad/tree/master)
 
 ## Books:
 - Book of Why - https://news.ycombinator.com/item?id=26379695
