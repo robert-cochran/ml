@@ -1,0 +1,3 @@
+- ML Web-Service with python and django : https://news.ycombinator.com/item?id=24373459
+- REST APIs with Flask and Python : https://github.com/tylerwatkins101/rest-api-sections
+- Deploying a Flask API (FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS) : https://github.com/udacity/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS
